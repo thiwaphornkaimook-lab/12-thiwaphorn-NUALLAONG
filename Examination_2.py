@@ -7,7 +7,7 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 height =int(input("ความสูง"))
-if height >= 140              
+if height >= 140:              
  print("can ride")
 else:
  print("Cannot ride")
