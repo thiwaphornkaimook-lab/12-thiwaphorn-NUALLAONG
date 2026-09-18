@@ -10,5 +10,5 @@ s1 =int(input("คะแนนวิชาที่ 1 "))
 s2 =int(input("คะแนนวิชาที่ 2 "))
 s3 =int(input("คะแนนวิชาที่ 3 "))
 
-total = s1 + s2 + s3 / 3
+total = (s1 + s2 + s3) / 3
 print("คะแนนเฉลี่ย",total)
