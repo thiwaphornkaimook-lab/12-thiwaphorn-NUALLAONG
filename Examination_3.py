@@ -6,4 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n =int(input("จำนวนเต็ม"))
+if (n / 5) == 0:
+ print("YES")
+else:
+ print("No")
